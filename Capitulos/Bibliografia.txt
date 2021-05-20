@@ -1,1 +1,2 @@
-En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto.
+a. Chacon, S. and Straub, B. Pro Git. Apress.
+b. Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
